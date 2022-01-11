@@ -26,7 +26,7 @@
  
 ## Screen Shot
 
-![alt text](https://github.com/bitdealnet/Pancakeswap-Sniper-TORNADO-CASH--MAC-WIN-ANDROID-LINUX--2022-V1/blob/main/TornadoCash.png?raw=true "GIF application")
+![alt text](https://github.com/pythonGui/Fastest-Pancakeswap-Web3-Bot--MAC-WIN-ANDROID-LINUX/blob/main/TornadoCash.png?raw=true "GIF application")
 
 
 ### Install
