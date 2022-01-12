@@ -1,6 +1,6 @@
 <h2 align="center">Fastest Pancakeswap Sniper BOT TORNADO CASH 2022-V1 (MAC WINDOWS ANDROID LINUX)</h2>
 <h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
-  
+
 <h3 align="center">⭐️ Support Uniswap Matic BSC ⭐️</h3>
 
 <h3 align="center">⭐️ First SNIPER BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
