@@ -7,7 +7,7 @@
 <h3 align="center">A fully decentralized protocol for private and safe transactions </h3>
 
 
-![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/gui-cryptoBot%20.gif?raw=true "GIF application")
+![alt text](https://github.com/pythonGui/Fastest-Pancakeswap-Web3-Bot--MAC-WIN-ANDROID-LINUX/blob/main/TornadoCash.png?raw=true "GIF application")
  
 [![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -26,7 +26,7 @@
  
 ## DEMO
 
-![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/gui-cryptoBot%20.gif?raw=true "GIF application")
+![alt text](https://github.com/pythonGui/Fastest-Pancakeswap-Web3-Bot--MAC-WIN-ANDROID-LINUX/blob/main/TornadoCash.png?raw=true "GIF application")
 
 
 ### Install
